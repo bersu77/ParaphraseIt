@@ -1,0 +1,7 @@
+pynput
+python-dotenv
+pyperclip
+pystray
+Pillow
+google-genai
+pyinstaller
